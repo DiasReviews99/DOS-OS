@@ -7,6 +7,7 @@ apt -q install proot openssl-tool -y
 hash -r
 echo "Installing the System, Please Wait..."
 apt -q install curl -y
+apt -q install vim -y
 rm /data/data/com.termux/files/usr/etc/bash.bashrc
 wget https://raw.githubusercontent.com/DiasReviews99/DOS-OS/main/Scripts/Bootstrap/bash.bashrc -P $PREFIX/etc/
 chmod +x $PREFIX/etc/bash.bashrc
