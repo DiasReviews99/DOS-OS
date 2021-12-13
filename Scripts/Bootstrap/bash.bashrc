@@ -26,11 +26,11 @@ clear
 echo "Starting Kernel..."
 sleep 2
 echo ""
-echo "DOS-OS version 1.00"
+echo "DOS-OS version 1.10"
 echo "Created by DiasReviews99"
 echo "Loading m-d-y..."
 sleep 1
 echo ""
-echo "COMMAND v. 1.00"
+echo "COMMAND v. 1.10"
 sleep 1
 echo ""
