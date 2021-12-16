@@ -23,14 +23,11 @@ if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
         }
 fi
 clear
-echo "Starting Kernel..."
+ls
+sleep 1
+echo ""
+echo "Starting DOS-OS v1.14..."
+echo "Created by DiasReviews99"
 sleep 2
 echo ""
-echo "DOS-OS version 1.10"
-echo "Created by DiasReviews99"
-echo "Loading m-d-y..."
-sleep 1
-echo ""
-echo "COMMAND v. 1.10"
-sleep 1
-echo ""
+
