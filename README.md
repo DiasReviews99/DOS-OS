@@ -1,5 +1,5 @@
 # DOS-OS
-DOS-OS Beta 1.1
+DOS-OS 1.14
 ## For Installing Writing this in console:
 > apt update
 
