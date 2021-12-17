@@ -26,7 +26,7 @@ clear
 ls
 sleep 1
 echo ""
-echo "Starting DOS-OS v1.14..."
+echo "Starting DOS-OS v1.24..."
 echo "Created by DiasReviews99"
 sleep 2
 echo ""
