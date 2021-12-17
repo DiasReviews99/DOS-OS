@@ -7,7 +7,7 @@ DOS-OS 1.24
 
 > apt install wget
 
-> wget https://raw.githubusercontent.com/DiasReviews99/DOS-OS/main/Scripts/Installer/install.sh
+> wget https://raw.githubusercontent.com/DiasReviews99/DOS-OS/Stable/Scripts/Installer/install.sh
 
 > chmod +x install.sh
 
