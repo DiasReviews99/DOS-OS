@@ -1,5 +1,5 @@
 # DOS-OS
-DOS-OS 2.0
+DOS-OS 2.01
 ## For Installing Writing this in console:
 > apt update
 
