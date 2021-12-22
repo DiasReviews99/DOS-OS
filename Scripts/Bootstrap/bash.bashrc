@@ -28,7 +28,7 @@ sleep 1
 echo "m-d-y Loaded!"
 echo ""
 echo "The DOS-Operating System"
-echo "Version 2.00 Created by DiasReviews99"
+echo "Version 2.01 Created by DiasReviews99"
 echo ""
 ls
 echo ""
